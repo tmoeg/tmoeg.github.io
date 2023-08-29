@@ -1,8 +1,6 @@
 site_name: "TMOEG | IT сообщество"
 copyright: Copyright &copy; 2022 Under CC-BY-NC 4.0
 
-docs_dir: G:\Projects\База знаний
-
 # Репозиторий
 repo_url: https://github.com/tmoeg/site-contents
 edit_uri: ""
@@ -15,14 +13,12 @@ plugins:
   - autolinks
   - macros:
       render_by_default: false
-    # lang: 
-    #   - en
-    #   - ru
   - i18n:
       default_language: ru
       languages:
-        en: English
         ru: Русский
+        en: English
+  # Аддон  конверсии ассетов в webp
   # - images-to-webp:
   #     extensions:
   #       - png
@@ -32,15 +28,15 @@ plugins:
   #       # - README.md
   #       - "*.png"
   #       - "*.jpg"
-  # пока не нужен!!!
 
 extra:
+  # Поддержка локализации
   # alternate:
   #   - name: English
   #     link: /en/ 
   #     lang: en
   #   - name: Русский
-  #     link: /ru/
+  #     link: /
   #     lang: ru
   social:
     - icon: fontawesome/brands/creative-commons-by
@@ -56,16 +52,13 @@ theme:
   icon:
     repo: fontawesome/brands/github-square
     alternate: fontawesome/solid/language
-  #custom_dir: overrides
   font:
-    # text: Rubik
     text: Golos Text
   features:
     - navigation.tabs
     - navigation.indexes
     - navigation.top
   
-  # цвет шапки #414665
   palette: 
   # Palette toggle for light mode
   - scheme: default
@@ -85,7 +78,6 @@ markdown_extensions:
   - attr_list
   - def_list
   - tables
-  # - abbr
   - md_in_html
   - meta
   - admonition
