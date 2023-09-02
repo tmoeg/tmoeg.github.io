@@ -7,6 +7,9 @@ edit_uri: ""
 
 site_dir: site
 
+# Раскомментируйте и вставьте путь для тестирования локальной документации
+# docs_dir: 
+
 plugins:
   - search
   - awesome-pages
@@ -22,7 +25,7 @@ plugins:
   # - images-to-webp:
   #     extensions:
   #       - png
-  #     img_dir: G:\Projects\База знаний\assets
+  #     img_dir:
   # - exclude:
   #     glob:
   #       # - README.md
