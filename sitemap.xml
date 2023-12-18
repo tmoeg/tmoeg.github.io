@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>None.</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://tmoeg.github.io/</loc>
+         <lastmod>2023-12-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/"/>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/"/>
          
     </url>
     <url>
-         <loc>NoneLICENSE/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://tmoeg.github.io/LICENSE/</loc>
+         <lastmod>2023-12-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/LICENSE/"/>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/LICENSE/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/LICENSE/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/LICENSE/"/>
          
     </url>
     <url>
-         <loc>Nonelearn/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://tmoeg.github.io/learn/</loc>
+         <lastmod>2023-12-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/learn/"/>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/learn/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/learn/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/learn/"/>
          
     </url>
     <url>
-         <loc>Nonelearn/tmoeg-community/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://tmoeg.github.io/learn/tmoeg-community/</loc>
+         <lastmod>2023-12-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/learn/tmoeg-community/"/>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/learn/tmoeg-community/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/learn/tmoeg-community/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/learn/tmoeg-community/"/>
          
     </url>
     <url>
-         <loc>Nonelearn/godot-bootcamp/about/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://tmoeg.github.io/learn/godot-bootcamp/about/</loc>
+         <lastmod>2023-12-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/learn/godot-bootcamp/about/"/>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/learn/godot-bootcamp/about/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/learn/godot-bootcamp/about/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/learn/godot-bootcamp/about/"/>
          
     </url>
     <url>
-         <loc>Nonelearn/godot-bootcamp/godot-bootcamp-community/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://tmoeg.github.io/learn/godot-bootcamp/godot-bootcamp-community/</loc>
+         <lastmod>2023-12-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/learn/godot-bootcamp/godot-bootcamp-community/"/>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/learn/godot-bootcamp/godot-bootcamp-community/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/learn/godot-bootcamp/godot-bootcamp-community/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/learn/godot-bootcamp/godot-bootcamp-community/"/>
          
     </url>
     <url>
-         <loc>Nonewiki/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://tmoeg.github.io/wiki/</loc>
+         <lastmod>2023-12-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/wiki/"/>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki/"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/"/>
          
     </url>
 </urlset>
