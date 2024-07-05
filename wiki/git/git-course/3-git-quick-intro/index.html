@@ -620,6 +620,10 @@
         
           
         
+          
+        
+          
+        
       
       
         <label class="md-nav__link" for="__nav_3_3_1">
@@ -765,8 +769,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#6" class="md-nav__link">
-    6. Итог
+  <a href="#6-git-commit" class="md-nav__link">
+    6. Что такое git commit
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7" class="md-nav__link">
+    7. Итог
   </a>
   
 </li>
@@ -864,6 +875,34 @@
 
             
           
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10-tagging/" class="md-nav__link">
+        10 Работа с тегами
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../11-branches-in-a-nutshell/" class="md-nav__link">
+        11 О ветвлении
+      </a>
+    </li>
+  
+
+            
+          
         </ul>
       </nav>
     </li>
@@ -946,8 +985,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#6" class="md-nav__link">
-    6. Итог
+  <a href="#6-git-commit" class="md-nav__link">
+    6. Что такое git commit
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7" class="md-nav__link">
+    7. Итог
   </a>
   
 </li>
@@ -1008,8 +1054,24 @@ git<span class="w"> </span>config<span class="w"> </span>--global<span class="w"
 <p>При вызовах команд <strong>git add</strong> добавляйте туда пути к уже существующим файлам, которые мы создали ранее</p>
 </div>
 <p><a class="md-button md-button--primary" target="_blank" href="https://git-scm.com/book/ru/v2/Основы-Git-Создание-Git-репозитория">Pro Git Глава 2.1</a></p>
-<h2 id="6">6. Итог</h2>
-<p>В конце занятия содержимое вашей подпапки должно выглядеть примерно так:</p>
+<h2 id="6-git-commit">6. Что такое git commit</h2>
+<p>Если сильно утрировать:</p>
+<p>При первом вызове <strong>git commit</strong> фиксируются изменения индексируемых файлов и создается коммит.</p>
+<p>В качестве имени коммиту присваивается "случайный" набор из 40 символов - <strong>хэш (хэш коммита, commit hash)</strong>.</p>
+<p>Пример хеша коммита ниже: <strong>98ca9e2bd74e03ajj732assb476392ff77f24e47</strong></p>
+<p><img alt="Первый коммит" src="/wiki/git/git-course/assets/3-first-commit.png" /></p>
+<p>Предположим, что мы вызовем <strong>git commit</strong> еще пару раз - гит создаст еще два коммита с зафиксированными изменениями.</p>
+<p><img alt="Несколько коммитов" src="/wiki/git/git-course/assets/3-more-commits.png" /></p>
+<p>Об этом удобно думать как о цепочке, где каждый коммит ссылается на предыдущий.</p>
+<ul>
+<li>98ca9 - первый, у него нет родителя</li>
+<li>34ac2 указывает на 98ca9</li>
+<li>f30ab указывает на 34ac2 и т.д.</li>
+</ul>
+<p><strong>При этом указатель ветки "master" перемещается на последний коммит.</strong></p>
+<h2 id="7">7. Итог</h2>
+<p>Архив с выполненными занятиями потребуется вам в конце курса.
+В конце занятия содержимое вашей подпапки должно выглядеть примерно так:</p>
 <p><img alt="Результаты прохождения занятия" src="/wiki/git/git-course/assets/3-results.png" /></p>
 
               
