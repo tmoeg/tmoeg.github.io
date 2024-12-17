@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
          <loc>https://tmoeg.github.io/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/"/>
@@ -10,7 +10,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/LICENSE/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/LICENSE/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/LICENSE/"/>
@@ -18,7 +18,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/learn/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/learn/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/learn/"/>
@@ -26,7 +26,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/learn/community-friends/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/learn/community-friends/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/learn/community-friends/"/>
@@ -34,7 +34,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/learn/events/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/learn/events/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/learn/events/"/>
@@ -42,7 +42,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/learn/tmoeg-community/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/learn/tmoeg-community/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/learn/tmoeg-community/"/>
@@ -50,7 +50,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/learn/godot-bootcamp/about/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/learn/godot-bootcamp/about/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/learn/godot-bootcamp/about/"/>
@@ -58,15 +58,23 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/learn/godot-bootcamp/godot-bootcamp-community/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/learn/godot-bootcamp/godot-bootcamp-community/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/learn/godot-bootcamp/godot-bootcamp-community/"/>
          
     </url>
     <url>
+         <loc>https://tmoeg.github.io/learn/hidden-events/capybariki/</loc>
+         <lastmod>2024-12-17</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/learn/hidden-events/capybariki/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/learn/hidden-events/capybariki/"/>
+         
+    </url>
+    <url>
          <loc>https://tmoeg.github.io/wiki/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/"/>
@@ -74,7 +82,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/about/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/about/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/about/"/>
@@ -82,7 +90,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/1-installation/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/1-installation/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/1-installation/"/>
@@ -90,7 +98,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/10-tagging/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/10-tagging/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/10-tagging/"/>
@@ -98,7 +106,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/11-branches-in-a-nutshell/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/11-branches-in-a-nutshell/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/11-branches-in-a-nutshell/"/>
@@ -106,7 +114,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/2-bash-quick-intro/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/2-bash-quick-intro/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/2-bash-quick-intro/"/>
@@ -114,7 +122,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/3-git-quick-intro/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/3-git-quick-intro/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/3-git-quick-intro/"/>
@@ -122,7 +130,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/4-recording-changes/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/4-recording-changes/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/4-recording-changes/"/>
@@ -130,7 +138,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/5-commit-history/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/5-commit-history/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/5-commit-history/"/>
@@ -138,7 +146,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/6-git-configuration/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/6-git-configuration/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/6-git-configuration/"/>
@@ -146,7 +154,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/7-undoing-things/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/7-undoing-things/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/7-undoing-things/"/>
@@ -154,7 +162,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/8-practice/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/8-practice/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/8-practice/"/>
@@ -162,7 +170,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/9-working-with-remotes/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/9-working-with-remotes/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/9-working-with-remotes/"/>
@@ -170,7 +178,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/about/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/about/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/about/"/>
@@ -178,7 +186,7 @@
     </url>
     <url>
          <loc>https://tmoeg.github.io/wiki/git/git-course/git-basics-course/</loc>
-         <lastmod>2024-11-11</lastmod>
+         <lastmod>2024-12-17</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="ru" href="https://tmoeg.github.io/ru/wiki/git/git-course/git-basics-course/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://tmoeg.github.io/en/wiki/git/git-course/git-basics-course/"/>
